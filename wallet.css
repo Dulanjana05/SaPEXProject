@@ -1,0 +1,68 @@
+body{
+    background-color: #3fb0ef !important;
+    background: url(images/fuk2.png);
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.wallet-container{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(image.jpg);
+    width: 600px;
+    height: 800px;
+    color: #fff;
+    font-size: 15px;
+    padding: 20px 20px 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    border-bottom-color:black;
+}
+.amount-box img{
+    width: 50px;
+}
+.amount{
+    font-size: 35px;
+}
+.amount-box p{
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.btn-group{
+    margin: 20px 0;
+}
+.btn-group .btn{
+    margin: 8px;
+    border-radius: 20px !important;
+    font-size: 18px;
+}
+.puk{
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 250px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    transform: translate(520px,750px);
+    text-decoration: none;
+}
+.puk:hover{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+.puk a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
